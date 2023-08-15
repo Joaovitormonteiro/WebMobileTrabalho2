@@ -11,5 +11,5 @@
 <h1>Execucao - Modo de producao</h1>
 <p>Compilando codigo fonte em um arquivo APK</p>
 <p><i>npm run build:android</i></p>
-<p>Assinando o arquivo APK para instalacao no celular usando <a link="https://github.com/patrickfav/uber-apk-signer">software de terceiros</a></p>
+<p>Assinando o arquivo APK para instalacao no celular usando <a href="https://github.com/patrickfav/uber-apk-signer">software de terceiros</a></p>
 <p><i>npm run sign</i></p>
